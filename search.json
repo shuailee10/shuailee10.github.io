@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shuai Li",
+    "section": "",
+    "text": "I’m a Ph.D. student in the geography program at the University of Florida, specializing in land cover and land use change-climate interactions.\nI’m particularly interested in using geographic information technology to study human-environmental interactions, especially in areas with complex ecology."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Shuai Li",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nLand Cover and Land Use Change\nClimate Change\nEarth System Modeling\nRemote Sensing Image Fusion\nGIS and Spatial Analysis\nGeospatial Artificial Intelligence"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Research content will be added here."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching experience will be added here."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Research projects will be added here."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publication list will be added here."
+  }
+]
