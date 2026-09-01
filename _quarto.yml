@@ -1,0 +1,31 @@
+project:
+  type: website
+  resources:
+    - files/**
+
+website:
+  title: "Shuai Li"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects      
+      - href: teaching.qmd
+        text: Teaching  
+
+  page-footer:
+    center: "© 2026 Shuai Li"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

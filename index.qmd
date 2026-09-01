@@ -1,0 +1,42 @@
+---
+title: "Shuai Li"
+image: images/profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links:
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=AHvsmfYAAAAJ&hl=en&oi=ao
+      target: _blank
+
+    - icon: github
+      text: GitHub
+      href: https://github.com/shuailee10
+      target: _blank
+
+    - icon: link-45deg
+      text: ORCID
+      href: https://orcid.org/0000-0002-8098-5262
+      target: _blank
+
+    - icon: file-earmark-person
+      text: CV
+      href: files/CV.pdf
+      target: _blank
+toc: false
+---
+
+I’m a Ph.D. student in the geography program at the University of Florida, specializing in land cover and land use change-climate interactions.
+
+I’m particularly interested in using geographic information technology to study human-environmental interactions, especially in areas with complex ecology.
+
+## Research Interests
+
+- Land Cover and Land Use Change
+- Climate Change
+- Earth System Modeling
+- Remote Sensing Image Fusion
+- GIS and Spatial Analysis
+- Geospatial Artificial Intelligence
