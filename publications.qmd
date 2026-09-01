@@ -1,5 +1,36 @@
 ---
 title: "Publications"
+toc: true
 ---
 
-Publication list will be added here.
+## Papers
+
+### 2026
+
+**Li, S.**, He, Y., Yang, D., Li, Y., & Liu, W. (2026). [Incorporating learned geospatial embeddings to deep image prior for inpainting cloud areas in remotely sensed images](https://doi.org/10.1016/j.srs.2026.100404){target="_blank"}. *Science of Remote Sensing, 13*, 100404.
+
+He, Y., Yang, D., **Li, S.**, Cheng, L., & Fang, F. (2026). [Enhanced Extreme Precipitation Simulation in China Using NCAR CESM Based on a Realistic Remotely-Sensed Time Series of Annual Land Cover and Land Use Data From 1982 to 2013](https://doi.org/10.1029/2025EA004618){target="_blank"}. *Earth and Space Science, 13*(6), e2025EA004618.
+
+**Li, S.**, Yang, D., He, Y., Parazoo, N., & Liu, W. (2026). [The impact of land cover change-climate interactions on ecosystem productivity in the Arctic-Boreal region](https://doi.org/10.1016/j.agrformet.2026.111137){target="_blank"}. *Agricultural and Forest Meteorology, 383*, 111137.
+
+### 2025
+
+**Li, S.**, Yang, D., He, Y., Parazoo, N., & Liu, W. (2025). [The biogeophysical impacts of land cover change on climate extremes in the Arctic and Boreal regions](https://doi.org/10.1088/1748-9326/adeba0){target="_blank"}. *Environmental Research Letters, 20*, 084057.
+
+Liu, W., **Li, S.**, Fan, D., Wen, Y., Madson, A., Mitchell, J., He, Y., & Yang, D. (2025). [A Deep-Learning Workflow for CORONA-Based Historical Land Use Classifications](https://doi.org/10.1109/JSTARS.2025.3582789){target="_blank"}. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 18*, 16066–16080.
+
+### 2023
+
+**Li, S.**, Ma, H., Yang, D., Hu, W., & Li, H. (2023). [The Main Drivers of Wetland Evolution in the Beijing-Tianjin-Hebei Plain](https://doi.org/10.3390/land12020480){target="_blank"}. *Land, 12*(2), 480.
+
+### 2022
+
+Liu, Y., Ni, Z., Zhao, Y., Zhou, G., Luo, Y., **Li, S.**, Wang, D., & Zhang, S. (2022). [Spatial-Temporal Evolution and Driving Forces of Drying Trends on the Qinghai-Tibet Plateau Based on Geomorphological Division](https://doi.org/10.3390/ijerph19137909){target="_blank"}. *International Journal of Environmental Research and Public Health, 19*(13), 7909.
+
+**Li, S.**, Ni, Z., Zhao, Y., Hu, W., Long, Z., Ma, H., Zhou, G., Luo, Y., & Geng, C. (2022). [Susceptibility Analysis of Geohazards in the Longmen Mountain Region after the Wenchuan Earthquake](https://doi.org/10.3390/ijerph19063229){target="_blank"}. *International Journal of Environmental Research and Public Health, 19*(6), 3229.
+
+## Book Chapter
+
+### 2026
+
+Yang, D., Tai, X., He, Y., Liu, T., **Li, S.**, & Katabuchi, M. (2026). [Deforestation assessment](https://doi.org/10.1016/B978-0-443-33803-8.00003-2){target="_blank"}. In *Data-Driven Earth Observation for Disaster Management: From Theory to Practical Applications* (pp. 347–367). Elsevier.
