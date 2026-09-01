@@ -1,1 +1,10 @@
 /* css styles */
+h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.8rem;
+}
