@@ -25,7 +25,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Research content will be added here."
+    "text": "Land Cover and Land Use Change\nUse multi-source remote sensing observations to investigate land cover and land use change, with emphasis on classical time-series approaches and machine learning methods for image classification, change detection, and spatial and temporal evolution.\nLand-Atmosphere Interactions\nUse Earth system models and regional climate models to reveal the effects of land cover and land use change, with a focus on land-atmosphere feedbacks, climate responses, hydrological processes, and ecosystem productivity across regional to continental scales.\nRemote Sensing Image Fusion\nLeverage and develop deep learning methods for remote sensing image fusion, with particular emphasis on spatiotemporal fusion and multimodal fusion.\nGIS and Spatial Analysis\nEmploy GIS, spatial statistics, and geospatial analysis to examine geographic patterns, spatial relationships, and environmental processes, including land cover and land use change, ecological assessment, natural hazards, and environmental monitoring.\nGeospatial Artificial Intelligence\nUtilize and advance artificial intelligence methods for geospatial and Earth observation problems, including deep learning, geospatial foundation models, and representation learning for extracting transferable spatial and semantic information from large-scale remote sensing datasets."
   },
   {
     "objectID": "teaching.html",
@@ -39,7 +39,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Research projects will be added here."
+    "text": "Quantifying Effects of Land Cover Change-Climate Interaction on Ecosystem Productivity Over Western North America\nFunder: NASA EPSCoR\nBuilding A Wyoming Citizen Science Data Clearinghouse for Community Coordination and Engagement\nFunder: University of Wyoming\nEcological Security Pattern in the Chengdu-Chongqing Urban Agglomeration\nFunder: Chengdu University of Technology\nCarbon and Water Use Efficiency of Southern Bamboo Forest Ecosystems\nFunder: Key Laboratory of National Forestry and Grassland Administration/Beijing for Bamboo & Rattan Science and Technology\nGeological Hazard Risk Assessment in Pengzhou, Sichuan\nFunder: Sichuan Provincial Department of Natural Resources\nEcological Landscape Pattern Evolution in Giant Panda National Park\nFunder: National Park Research Center\nWetland Ecological Processes in the Beijing-Tianjin-Hebei Region\nFunder: Hebei Key Laboratory of Wetland Ecology and Protection\nEcological and Geological Survey of Mianning County, Liangshan Prefecture\nFunder: China Geological Survey"
   },
   {
     "objectID": "publications.html",
