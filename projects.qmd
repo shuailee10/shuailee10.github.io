@@ -2,4 +2,26 @@
 title: "Projects"
 ---
 
-Research projects will be added here.
+**Quantifying Effects of Land Cover Change-Climate Interaction on Ecosystem Productivity Over Western North America**  
+Funder: NASA EPSCoR
+
+**Building A Wyoming Citizen Science Data Clearinghouse for Community Coordination and Engagement**  
+Funder: University of Wyoming
+
+**Ecological Security Pattern in the Chengdu-Chongqing Urban Agglomeration**  
+Funder: Chengdu University of Technology
+
+**Carbon and Water Use Efficiency of Southern Bamboo Forest Ecosystems**  
+Funder: Key Laboratory of National Forestry and Grassland Administration/Beijing for Bamboo & Rattan Science and Technology
+
+**Geological Hazard Risk Assessment in Pengzhou, Sichuan**  
+Funder: Sichuan Provincial Department of Natural Resources
+
+**Ecological Landscape Pattern Evolution in Giant Panda National Park**  
+Funder: National Park Research Center
+
+**Wetland Ecological Processes in the Beijing-Tianjin-Hebei Region**  
+Funder: Hebei Key Laboratory of Wetland Ecology and Protection
+
+**Ecological and Geological Survey of Mianning County, Liangshan Prefecture**  
+Funder: China Geological Survey

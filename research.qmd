@@ -2,4 +2,17 @@
 title: "Research"
 ---
 
-Research content will be added here.
+**Land Cover and Land Use Change**  
+Use multi-source remote sensing observations to investigate land cover and land use change, with emphasis on classical time-series approaches and machine learning methods for image classification, change detection, and spatial and temporal evolution.
+
+**Land-Atmosphere Interactions**  
+Use Earth system models and regional climate models to reveal the effects of land cover and land use change, with a focus on land-atmosphere feedbacks, climate responses, hydrological processes, and ecosystem productivity across regional to continental scales.
+
+**Remote Sensing Image Fusion**  
+Leverage and develop deep learning methods for remote sensing image fusion, with particular emphasis on spatiotemporal fusion and multimodal fusion.
+
+**GIS and Spatial Analysis**  
+Employ GIS, spatial statistics, and geospatial analysis to examine geographic patterns, spatial relationships, and environmental processes, including land cover and land use change, ecological assessment, natural hazards, and environmental monitoring.
+
+**Geospatial Artificial Intelligence**  
+Utilize and advance artificial intelligence methods for geospatial and Earth observation problems, including deep learning, geospatial foundation models, and representation learning for extracting transferable spatial and semantic information from large-scale remote sensing datasets.
